@@ -102,18 +102,6 @@ The model is evaluated using **Precision Score**.
 
 ---
 
-## Project Structure
-
-```
-Stock-Market-Direction-Prediction
-│
-├── StockPricePrediction.ipynb
-├── README.md
-└── requirements.txt
-```
-
----
-
 ## Future Improvements
 
 Possible enhancements to this project include:
